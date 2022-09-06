@@ -1,6 +1,10 @@
-# BIOS511_project1
+BIOS 511 Project 1
+================
 
-## Group members
-- Mark Bayer
-- Sophia Archibeque
-- Ran Wei
+## Data Visualization
+
+### Group Members
+
+-   *Mark Bayer*
+-   *Sophia Archibeque*
+-   *Ran Wei*
